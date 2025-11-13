@@ -24,7 +24,7 @@
 
 ### 🧩 프로젝트 협업
 
-- <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion icon" width="18" height="18"> [**KOSSDA 프로젝트 노션 바로가기**](https://www.notion.so/KOSSDA-201bf34cc2ef80b3a604dbe50938eabc)  
+- <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion icon" width="18" height="18"> [**KOSSDA 프로젝트 노션 바로가기**](https://glib-powder-5f6.notion.site/KOSSDA-201bf34cc2ef80b3a604dbe50938eabc)  
   → 아이디어, 코드, 자료, 회의, 할 일 등 **프로젝트 전 과정 기록용 Workspace**
 
 - 🗓️ **매주 화요일 회의 필수 참석**
